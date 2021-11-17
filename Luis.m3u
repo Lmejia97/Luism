@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal 24 Horas
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=R0mXZ6Kh9hUh66akLK4G2wcUwDxpZO1Y&sid=JQhoIlkf4XHiIYmT5yizA1Df7h6vl0We&pid=fQn7EuuAKB7wuTa2E3CxZvQiDR6hMByk&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&dnt=true&es=us-b4-p-e-az1.cdn.mdstrm.com&ote=1623886186872&ot=mrnt6_rlcf2kKtTzIPI1Fw&proto=https&pz=us.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+https://5fc584f3f19c9.streamlock.net:443/tododeportesplus/smil:tododeportesplus.smil/chunklist_w279301189_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDIxIDExOjMyOjI1IFBNJmhhc2hfdmFsdWU9RkVJelVSZlZydExBOTNTMGVLTjRXZz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3d.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+https://e10.espncdn.live/ingestnb4s/espn_sur/d.m3u8
+
+#EXTINF:-1 ,Canal 24 Horas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2.m3u8
+
+#EXTINF:1 ,Canal 24 Horas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/ESPN3.m3u8
+
+#EXTINF:1 ,Canal 24 Horas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/ESPNEXTRA.m3u8
+
+#EXTINF:1 ,Canal 24 Horas
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+
+#EXTINF:1 ,Canal 24 Horas
+https://bcovlive-a.akamaihd.net:443/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
